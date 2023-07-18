@@ -2,7 +2,7 @@ node_modules/
 cypress/integration/1-getting-started
 cypress/integration/2-advanced-examples
 cypress/videos
-cypress
+cypress.env.json
 e2e/reports
 cypress/screenshots
 archivo.pdf
